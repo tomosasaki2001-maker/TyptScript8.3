@@ -15,7 +15,7 @@ export default function Home() {
     }
     return (
         <div className="home">
-            <div className="title">Home</div>
+            <h2 className="title">Home</h2>
 
             <div className="select">
 
